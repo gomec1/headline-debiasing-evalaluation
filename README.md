@@ -71,7 +71,7 @@ Recommended workflow:
 
 1. Tab 1: Configure LLMs.
 2. Tab 2.1: Enter headlines manually, label them, and start LLM scoring.
-3. Tab 2.2: Upload the Lyu CSV, verify columns, and start validation.
+3. Tab 2.2: Upload the [Lyu et al. (2024)](https://github.com/VIStA-H/Hyperpartisan-News-Titles/blob/main/data/training_set.csv), verify columns, and start validation. 
 4. Tab 3.1: Import results from 2.1 and test rewriting.
 5. Tab 3.2: Import results from 2.2 and test hyperpartisan rewriting.
 6. Tab 4: Refresh the dashboard and export all results.
@@ -211,7 +211,7 @@ Outputs:
 
 Research question: How well do LLMs detect hyperpartisanship against an external ground truth?
 
-Dataset: Lyu et al. (2024), `manually_labeled_data.csv`. The app auto-detects the `title` and `label` columns if present. The sample is drawn with `random_state=42`.
+Dataset: Lyu et al. (2024), `training_set.csv`. The app auto-detects the `title` and `label` columns if present. The sample is drawn with `random_state=42`.
 
 Mapping:
 
@@ -319,10 +319,6 @@ On the first call, `sentence-transformers/all-mpnet-base-v2` is downloaded and l
 - Landis & Koch (1977): Interpretation of Cohen's Kappa.
 - Recasens et al. (2013): Linguistic Bias and Framing.
 - Hamborg et al. (2019): Automated Identification of Media Bias.
-
-## Limitations
-
-The manual annotation is small and comes from a single human annotator. Hyperpartisanship and linguistic bias are related but not identical concepts. Results are therefore suitable for a bachelor thesis evaluation but should not be interpreted as a general-purpose benchmark.
 
 ## Smoke-Test Walkthrough
 
