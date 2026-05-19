@@ -1,0 +1,407 @@
+================================================================================
+ZUFALLSAUSWAHL: 50 NEWS
+================================================================================ 
+
+1. How to turn an opioid lawsuit settlement into a tax deduction
+   ID: msg_002697
+   Outlet: USA Today
+   Bias: LEAN LEFT
+   Datum: 2019-09-13
+   URL: https://www.usatoday.com/in-depth/news/2019/09/12/pharmaceutical-companies-teva-could-deduct-opioid-settlements-taxes/2268595001/
+
+2. Former New Zealand leader Jacinda Ardern is heading to Harvard | CNN
+   ID: msg_001642
+   Outlet: CNN
+   Bias: LEAN LEFT
+   Datum: 2023-04-26
+   URL: https://us.cnn.com/2023/04/25/asia/jacinda-ardern-harvard-fellowships-intl-hnk/
+
+3. The Democratic brand is broken. The infrastructure bill isn’t fixing it.
+   ID: msg_002053
+   Outlet: Politico
+   Bias: LEAN LEFT
+   Datum: 2021-11-23
+   URL: https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194
+
+4. Biden Has Landed on His Justification for Staying in the Race
+   ID: msg_004915
+   Outlet: Slate
+   Bias: LEFT
+   Datum: 2024-06-28
+   URL: https://slate.com/news-and-politics/2024/06/biden-speech-today-rally-north-carolina-debate-trump.html
+
+5. The Lie That Will Not Lie Down | Newsmax.com
+   ID: msg_006450
+   Outlet: Newsmax
+   Bias: RIGHT
+   Datum: 2020-10-13
+   URL: https://www.newsmax.com/philkershner/antitrump/2020/10/13/id/991729/
+
+6. Olympic Athletes, Coaches Testing Positive For COVID At Much Higher Rate
+   ID: msg_004551
+   Outlet: HuffPost
+   Bias: LEFT
+   Datum: 2022-02-01
+   URL: https://www.huffpost.com/entry/olympics-covid-positive-test-rates_n_61f918a3e4b094ce54af928b?d_id=3114311&ncid_tag=tweetlnkushpmg00000027
+
+7. Border dispute heats up: What's behind the clash between Thailand and Cambodia
+   ID: msg_001104
+   Outlet: ABC News
+   Bias: LEAN LEFT
+   Datum: 2025-07-24
+   URL: https://abcnews.go.com/International/wireStory/border-dispute-heats-clash-thailand-cambodia-124025048
+
+8. Allyson Watterson's parents plead for answers in mysterious disappearance
+   ID: msg_003284
+   Outlet: New York Post (news)
+   Bias: LEAN RIGHT
+   Datum: 2019-12-31
+   URL: https://nypost.com/2019/12/31/allyson-wattersons-parents-want-answers-after-no-evidence-of-hiking-disappearance/
+
+9. U.S. Aslyum Ban Has Not Deterred Honduran Women
+   ID: msg_005287
+   Outlet: The Intercept
+   Bias: LEFT
+   Datum: 2019-10-08
+   URL: https://theintercept.com/2019/10/08/us-asylum-ban-honduras-women-violence/
+
+10. ‘Imagine how you would use teleportation’: Drone delivery unicorn Zipline's CEO on plans for $250 million funding
+   ID: msg_000355
+   Outlet: Morning Brew
+   Bias: CENTER
+   Datum: 2021-07-01
+   URL: https://www.morningbrew.com/emerging-tech/stories/2021/06/30/imagine-use-teleportation-drone-delivery-unicorn-ziplines-ceo-plans-250-million-funding
+
+11. Dozens arrested in weekend of protests on U.S. campuses
+   ID: msg_001530
+   Outlet: CNBC
+   Bias: LEAN LEFT
+   Datum: 2024-05-05
+   URL: https://www.cnbc.com/2024/05/05/dozens-arrested-in-weekend-of-protests-on-us-campuses.html
+
+12. Myanmar’s largest Rohingya town set ablaze by rebel group
+   ID: msg_000723
+   Outlet: Reuters
+   Bias: CENTER
+   Datum: 2024-07-31
+   URL: https://www.reuters.com/graphics/MYANMAR-CONFLICT/ROHINGYA/dwpkzqnwlvm/
+
+13. The Beauty of Billionaires in Space | National Review
+   ID: msg_003102
+   Outlet: National Review (news)
+   Bias: LEAN RIGHT
+   Datum: 2021-07-23
+   URL: https://www.nationalreview.com/2021/07/the-beauty-of-billionaires-in-space/
+
+14. FAA issues more than $60,000 in fines for 'unruly' passengers, including disobedience of mask mandate
+   ID: msg_003957
+   Outlet: Washington Examiner
+   Bias: LEAN RIGHT
+   Datum: 2021-05-24
+   URL: https://www.washingtonexaminer.com/news/faa-issues-over-60k-in-fines-for-airline-passengers
+
+15. Protesters Take to Polish Streets After Death of Pregnant Woman Who Was Denied Abortion Care
+   ID: msg_004431
+   Outlet: Democracy Now!
+   Bias: LEFT
+   Datum: 2023-06-15
+   URL: https://www.democracynow.org/2023/6/15/headlines/protesters_take_to_polish_streets_after_death_of_pregnant_woman_who_was_denied_abortion_care
+
+16. Gun-toting LA homeowner who opened fire on intruders says his concealed carry permit was just revoked | Blaze Media
+   ID: msg_005734
+   Outlet: Blaze Media
+   Bias: RIGHT
+   Datum: 2023-11-18
+   URL: https://www.theblaze.com/news/gun-toting-la-homeowner-who-opened-fire-on-intruders-says-his-concealed-carry-permit-was-just-revoked
+
+17. Advocates Challenge Mysterious Justice Department Statement That Undercuts Forensic Science Reform
+   ID: msg_005256
+   Outlet: The Intercept
+   Bias: LEFT
+   Datum: 2021-08-08
+   URL: https://theintercept.com/2021/08/08/forensic-science-reform-justice-department/
+
+18. Virginia pilot, dog killed in New York plane crash; 2 other dogs found alive
+   ID: msg_000439
+   Outlet: NewsNation
+   Bias: CENTER
+   Datum: 2024-11-26
+   URL: https://www.newsnationnow.com/us-news/northeast/pilot-dog-killed-new-york-plane-crash/
+
+19. Facebook's Mark Zuckerberg reverses course on Holocaust denial
+   ID: msg_002467
+   Outlet: The Washington Post
+   Bias: LEAN LEFT
+   Datum: 2020-10-12
+   URL: https://www.washingtonpost.com/technology/2020/10/12/zuckerberg-holocaust-denial-facebook/
+
+20. We’re Not Corrupt, We’re Incompetent!: White House Cocaine Cold Case Is Laughable | The Daily Wire
+   ID: msg_006035
+   Outlet: Daily Wire
+   Bias: RIGHT
+   Datum: 2023-07-16
+   URL: https://www.dailywire.com/news/were-not-corrupt-were-incompetent-white-house-cocaine-cold-case-is-laughable
+
+21. America Is in the Grips of a Fundamentalist Revival
+   ID: msg_003491
+   Outlet: The Dispatch
+   Bias: LEAN RIGHT
+   Datum: 2020-07-08
+   URL: https://frenchpress.thedispatch.com/p/america-is-in-the-grips-of-a-fundamentalist
+
+22. The Blue State Race That Could Give Republicans Control of the Senate
+   ID: msg_004912
+   Outlet: Slate
+   Bias: LEFT
+   Datum: 2024-09-08
+   URL: https://slate.com/news-and-politics/2024/09/hogan-alsobrooks-polls-senate-race-maryland.html
+
+23. 'Climate of fear': Nigeria intensifies crackdown on journalists | World news
+   ID: msg_005185
+   Outlet: The Guardian
+   Bias: LEFT
+   Datum: 2019-11-14
+   URL: https://www.theguardian.com/world/2019/nov/14/climate-of-fear-nigeria-intensifies-crackdown-on-journalists
+
+24. Increasingly, Democrats Begin to Fear the Suck - The American Spectator | USA News and PoliticsThe American Spectator | USA News and Politics
+   ID: msg_006770
+   Outlet: The American Spectator
+   Bias: RIGHT
+   Datum: 2023-09-12
+   URL: https://spectator.org/increasingly-democrats-begin-to-fear-the-suck/
+
+25. Hollow Earth review – digging deep into the curious history of caves in art
+   ID: msg_005142
+   Outlet: The Guardian
+   Bias: LEFT
+   Datum: 2022-10-21
+   URL: https://www.theguardian.com/artanddesign/2022/oct/21/hollow-earth-review-history-caves-art-nottingham-contemporary
+
+26. Gov. Hochul: Trump Needs To Show 'Remorse' For His Conviction If He Wants A Pardon
+   ID: msg_006503
+   Outlet: OAN
+   Bias: RIGHT
+   Datum: 2024-12-20
+   URL: https://www.oann.com/newsroom/gov-hochul-trump-needs-to-show-remorse-for-his-conviction-if-he-wants-a-pardon/
+
+27. Teachers Unions Are Still Just ‘Doing’ Socialism – The American Spectator | USA News and Politics
+   ID: msg_006699
+   Outlet: The American Spectator
+   Bias: RIGHT
+   Datum: 2025-10-16
+   URL: https://spectator.org/teachers-unions-are-still-just-doing-socialism/
+
+28. America's deadliest soldier? Dillard Johnson says he never made that claim.
+   ID: msg_000895
+   Outlet: The Christian Science Monitor
+   Bias: CENTER
+   Datum: 2019-11-06
+   URL: https://www.csmonitor.com/World/Security-Watch/Backchannels/2013/0627/America-s-deadliest-soldier-Dillard-Johnson-says-he-never-made-that-claim
+
+29. Leland Vittert’s War Notes: It’s Really That Simple
+   ID: msg_000458
+   Outlet: NewsNation
+   Bias: CENTER
+   Datum: 2024-04-10
+   URL: https://www.newsnationnow.com/on-balance-with-leland-vittert/leland-vitterts-war-notes-its-really-that-simple/
+
+30. Weekend News Round Up - Newsquawk Asia-Pac Market Open
+   ID: msg_004024
+   Outlet: ZeroHedge
+   Bias: LEAN RIGHT
+   Datum: 2023-12-04
+   URL: https://www.zerohedge.com/markets/weekend-news-round-newsquawk-asia-pac-market-open-67
+
+31. Opinion | Un-American targeting right here in Virginia
+   ID: msg_002460
+   Outlet: The Washington Post
+   Bias: LEAN LEFT
+   Datum: 2021-03-17
+   URL: https://www.washingtonpost.com/opinions/letters-to-the-editor/un-american-targeting-right-here-in-virginia/2021/03/16/0ba80db2-85a6-11eb-be4a-24b89f616f2c_story.html
+
+32. How the Lawyer Who Beat Chevron Lost Everything
+   ID: msg_005273
+   Outlet: The Intercept
+   Bias: LEFT
+   Datum: 2020-01-29
+   URL: https://theintercept.com/2020/01/29/chevron-ecuador-lawsuit-steven-donziger/
+
+33. Pentagon Probe Under Way in Leaks Case
+   ID: msg_001048
+   Outlet: The Wall Street Journal (news)
+   Bias: CENTER
+   Datum: 2023-04-10
+   URL: https://www.wsj.com/articles/pentagon-probe-under-way-in-leaks-case-303d7fda
+
+34. Biden’s energy plan means lights out for Africa
+   ID: msg_006359
+   Outlet: New York Post (opinion)
+   Bias: RIGHT
+   Datum: 2023-12-25
+   URL: https://nypost.com/2023/12/25/opinion/bidens-paternalistic-energy-plan-means-lights-out-for-africa/
+
+35. 'Embarrassing': Sen. Kennedy Torches Biden Nominee After She Repeatedly Refused to Answer One Question
+   ID: msg_006260
+   Outlet: Independent Journal Review
+   Bias: RIGHT
+   Datum: 2021-12-17
+   URL: https://ijr.com/kennedy-torches-biden-nominee-repeatedly-refused-answer-1-question/
+
+36. Biden Reportedly Would Rage Over Reminders Of Trump In White House: ‘What A F***ing A**hole’ | The Daily Wire
+   ID: msg_006068
+   Outlet: Daily Wire
+   Bias: RIGHT
+   Datum: 2023-01-01
+   URL: https://www.dailywire.com/news/biden-reportedly-would-rage-over-reminders-of-trump-in-white-house-what-a-fing-ahole
+
+37. Defending One Brooklyn Brownstone Is Just the Beginning
+   ID: msg_005368
+   Outlet: The Nation
+   Bias: LEFT
+   Datum: 2020-07-13
+   URL: https://www.thenation.com/article/politics/crown-heights-eviction-defense/
+
+38. Lawsuit says a Black patient bled to death because of a hospital's culture of racism
+   ID: msg_001950
+   Outlet: NPR
+   Bias: LEAN LEFT
+   Datum: 2022-05-05
+   URL: https://www.npr.org/2022/05/05/1096833756/racism-lawsuit-cedars-sinai-medical-center-wife-death
+
+39. Opinion | A Trump Condominium for Greenland
+   ID: msg_003706
+   Outlet: The Wall Street Journal (opinion)
+   Bias: LEAN RIGHT
+   Datum: 2025-03-05
+   URL: https://www.wsj.com/opinion/a-trump-condominium-for-greenland-denmark-joint-sovereignty-agreement-14ac4e42
+
+40. Popular national park vandalized, perhaps by troubled visitor
+   ID: msg_002613
+   Outlet: USA Today
+   Bias: LEAN LEFT
+   Datum: 2025-01-16
+   URL: https://ftw.usatoday.com/2025/01/new-river-national-park-vandalized-west-virginia
+
+41. How Public Schools Became Ideological Boot Camps
+   ID: msg_003655
+   Outlet: The Free Press
+   Bias: LEAN RIGHT
+   Datum: 2024-06-14
+   URL: https://www.thefp.com/p/how-public-schools-became-ideological-boot-camps
+
+42. Israel's Annexation of Biblical Heartland 'Unlikely' Today
+   ID: msg_005974
+   Outlet: CBN
+   Bias: RIGHT
+   Datum: 2020-07-01
+   URL: https://www1.cbn.com/cbnnews/israel/2020/july/israel-rsquo-s-annexation-of-biblical-heartland-lsquo-unlikely-rsquo-today
+
+43. Biden’s rhetorical gamble on voting rights
+   ID: msg_003954
+   Outlet: Washington Examiner
+   Bias: LEAN RIGHT
+   Datum: 2021-07-23
+   URL: https://www.washingtonexaminer.com/opinion/bidens-rhetorical-gamble-on-voting-rights
+
+44. At Least Two Dead And Nearly 180,000 Without Power In California ‘Brutal System’
+   ID: msg_000142
+   Outlet: Forbes
+   Bias: CENTER
+   Datum: 2023-01-05
+   URL: https://www.forbes.com/sites/brianbushard/2023/01/05/at-least-two-dead-and-nearly-180000-without-power-in-california-brutal-system/
+
+45. Russia Created a Refugee Crisis, and Now Putin Is Weaponizing It
+   ID: msg_003418
+   Outlet: The Dispatch
+   Bias: LEAN RIGHT
+   Datum: 2022-07-28
+   URL: https://thedispatch.com/p/russia-created-a-refugee-crisis-and
+
+46. How Covid Revealed the Folly of Our Child Welfare System
+   ID: msg_005346
+   Outlet: The Nation
+   Bias: LEFT
+   Datum: 2022-04-29
+   URL: https://www.thenation.com/article/society/child-foster-care-coronavirus/
+
+47. Trump to name Haitian gangs foreign terrorist organizations: report
+   ID: msg_006083
+   Outlet: Fox News
+   Bias: RIGHT
+   Datum: 2025-04-30
+   URL: https://www.foxnews.com/politics/trump-name-haitian-gangs-foreign-terrorist-organizations-report
+
+48. House Democrats will debate curtailing 9/11 war powers in new Congress
+   ID: msg_004285
+   Outlet: AlterNet
+   Bias: LEFT
+   Datum: 2019-01-22
+   URL: https://www.alternet.org/2018/12/house-democrats-will-debate-2001-aumf-war-powers/
+
+49. Biden: 'No evidence' remote campaigning is hindering White House bid
+   ID: msg_000980
+   Outlet: The Hill
+   Bias: CENTER
+   Datum: 2020-05-13
+   URL: https://thehill.com/homenews/campaign/497465-biden-no-evidence-remote-campaigning-is-hindering-white-house-bid
+
+50. Harvard’s New Speech Rules Continue Their Pattern of Repression
+   ID: msg_005304
+   Outlet: The Nation
+   Bias: LEFT
+   Datum: 2025-02-04
+   URL: https://www.thenation.com/article/society/harvard-university-ihra-antisemitism-lawsuit-settlement/
+
+================================================================================
+NUR TITEL ZUM KOPIEREN
+================================================================================
+How to turn an opioid lawsuit settlement into a tax deduction
+Former New Zealand leader Jacinda Ardern is heading to Harvard | CNN
+The Democratic brand is broken. The infrastructure bill isn’t fixing it.
+Biden Has Landed on His Justification for Staying in the Race
+The Lie That Will Not Lie Down | Newsmax.com
+Olympic Athletes, Coaches Testing Positive For COVID At Much Higher Rate
+Border dispute heats up: What's behind the clash between Thailand and Cambodia
+Allyson Watterson's parents plead for answers in mysterious disappearance
+U.S. Aslyum Ban Has Not Deterred Honduran Women
+‘Imagine how you would use teleportation’: Drone delivery unicorn Zipline's CEO on plans for $250 million funding
+Dozens arrested in weekend of protests on U.S. campuses
+Myanmar’s largest Rohingya town set ablaze by rebel group
+The Beauty of Billionaires in Space | National Review
+FAA issues more than $60,000 in fines for 'unruly' passengers, including disobedience of mask mandate
+Protesters Take to Polish Streets After Death of Pregnant Woman Who Was Denied Abortion Care
+Gun-toting LA homeowner who opened fire on intruders says his concealed carry permit was just revoked | Blaze Media
+Advocates Challenge Mysterious Justice Department Statement That Undercuts Forensic Science Reform
+Virginia pilot, dog killed in New York plane crash; 2 other dogs found alive
+Facebook's Mark Zuckerberg reverses course on Holocaust denial
+We’re Not Corrupt, We’re Incompetent!: White House Cocaine Cold Case Is Laughable | The Daily Wire
+America Is in the Grips of a Fundamentalist Revival
+The Blue State Race That Could Give Republicans Control of the Senate
+'Climate of fear': Nigeria intensifies crackdown on journalists | World news
+Increasingly, Democrats Begin to Fear the Suck - The American Spectator | USA News and PoliticsThe American Spectator | USA News and Politics
+Hollow Earth review – digging deep into the curious history of caves in art
+Gov. Hochul: Trump Needs To Show 'Remorse' For His Conviction If He Wants A Pardon
+Teachers Unions Are Still Just ‘Doing’ Socialism – The American Spectator | USA News and Politics
+America's deadliest soldier? Dillard Johnson says he never made that claim.
+Leland Vittert’s War Notes: It’s Really That Simple
+Weekend News Round Up - Newsquawk Asia-Pac Market Open
+Opinion | Un-American targeting right here in Virginia
+How the Lawyer Who Beat Chevron Lost Everything
+Pentagon Probe Under Way in Leaks Case
+Biden’s energy plan means lights out for Africa
+'Embarrassing': Sen. Kennedy Torches Biden Nominee After She Repeatedly Refused to Answer One Question
+Biden Reportedly Would Rage Over Reminders Of Trump In White House: ‘What A F***ing A**hole’ | The Daily Wire
+Defending One Brooklyn Brownstone Is Just the Beginning
+Lawsuit says a Black patient bled to death because of a hospital's culture of racism
+Opinion | A Trump Condominium for Greenland
+Popular national park vandalized, perhaps by troubled visitor
+How Public Schools Became Ideological Boot Camps
+Israel's Annexation of Biblical Heartland 'Unlikely' Today
+Biden’s rhetorical gamble on voting rights
+At Least Two Dead And Nearly 180,000 Without Power In California ‘Brutal System’
+Russia Created a Refugee Crisis, and Now Putin Is Weaponizing It
+How Covid Revealed the Folly of Our Child Welfare System
+Trump to name Haitian gangs foreign terrorist organizations: report
+House Democrats will debate curtailing 9/11 war powers in new Congress
+Biden: 'No evidence' remote campaigning is hindering White House bid
+Harvard’s New Speech Rules Continue Their Pattern of Repression

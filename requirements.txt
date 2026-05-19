@@ -1,0 +1,10 @@
+gradio
+openai
+anthropic
+pandas
+scikit-learn
+sentence-transformers
+matplotlib
+openpyxl
+together
+google-genai

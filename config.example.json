@@ -1,0 +1,10 @@
+{
+  "models": [
+    {
+      "name": "GPT-4o Mini",
+      "provider": "OpenAI",
+      "model_id": "gpt-4o-mini",
+      "base_url": ""
+    }
+  ]
+}
