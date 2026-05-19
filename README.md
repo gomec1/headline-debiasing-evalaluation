@@ -362,6 +362,7 @@ This project is licensed under the **MIT License** — see [LICENSE](https://git
 This repository accompanies the bachelor thesis:
 
 > **KI-gestützte Entbiasierung von Headlines — Design, Implementation und Evaluation**
+> 
 > Carlos Gomez  
 > Bachelor of Science in Digital Business & AI  
 > Bern University of Applied Sciences (BFH), Business School  
