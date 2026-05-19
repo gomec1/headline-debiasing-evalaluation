@@ -355,12 +355,14 @@ On the first call, `sentence-transformers/all-mpnet-base-v2` is downloaded and l
 
 This project is licensed under the **MIT License** — see [LICENSE](https://github.com/gomec1/headline-debiasing-evalaluation/blob/main/LICENSE) for details.
 
+---
+
 ## Academic Context
 
 This repository accompanies the bachelor thesis:
 
 > **KI-gestützte Entbiasierung von Headlines — Design, Implementation und Evaluation**
-> Carlos Gomez
-> Bachelor of Science in Digital Business & AI
-> Bern University of Applied Sciences (BFH), Business School
+> Carlos Gomez  
+> Bachelor of Science in Digital Business & AI  
+> Bern University of Applied Sciences (BFH), Business School  
 > Supervised by: Prof. Ulrich Matter (IADSF, Departement W)
