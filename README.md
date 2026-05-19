@@ -353,7 +353,7 @@ On the first call, `sentence-transformers/all-mpnet-base-v2` is downloaded and l
 
 ## License
 
-This project is licensed under the **MIT License** — see [LICENSE](https://github.com/gomec1/headline-debiasing-dataset/blob/main/LICENSE) for details.
+This project is licensed under the **MIT License** — see [LICENSE](https://github.com/gomec1/headline-debiasing-evalaluation/blob/main/LICENSE) for details.
 
 ## Academic Context
 
