@@ -4,6 +4,26 @@
 > Bern University of Applied Sciences (BFH) — Business School
 > Author: Carlos Gomez
 
+## Part of a Three-Repository Project
+ 
+This repository is one part of three interconnected repositories that together form the
+complete research project. It contains the **evaluation app**: a Gradio-based research
+tool used to compare multiple LLMs on bias detection (Linguistic Bias and
+Hyperpartisanship) and bias mitigation (rewriting). The app was used extensively for
+experimentation during the thesis — it is research-grade and exploratory by design, not
+a polished end product. For the cleaner, finalized prototype, see the KI-Redakteur repo.
+ 
+Analysis 2.1 in this app uses a manually annotated subsample of 50 headlines drawn
+from the dataset in the sister repository below.
+ 
+| Repository | What it contains |
+|---|---|
+| 📦 **[headline-debiasing-dataset](https://github.com/gomec1/headline-debiasing-dataset)** | GDELT data pipeline + 7,187 headline dataset used to build the ground truth for Analysis 2.1 |
+| 🔬 **[headline-debiasing-evaluation](https://github.com/gomec1/headline-debiasing-evalaluation)** ← *you are here* | LLM evaluation app — bias detection and rewriting experiments (exploratory, multi-model) |
+| 🛠️ **[headline-debiasing-editor](https://github.com/gomec1/headline-debiasing-editor)** | The finished KI-Redakteur prototype — clean, user-facing tool for scoring and neutralizing headlines |
+ 
+---
+
 Research prototype for evaluating LLMs on the detection and reformulation of bias in news headlines. The app focuses on two types of bias: **Linguistic Bias** and **Hyperpartisanship**. For each bias type, there is a detection pipeline with a scorer prompt and a mitigation pipeline with a rewriter prompt. Multiple LLMs can be compared in parallel and results exported as CSV, Excel, and Markdown.
 
 ## Installation
