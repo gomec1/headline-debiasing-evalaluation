@@ -1,0 +1,18 @@
+# API Keys und Secrets - NIEMALS committen
+secrets.json
+config.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Output-Dateien aus Analysen
+ergebnisse_*.csv
+ergebnisse_*.xlsx
+ergebnisse_*.md
+mini_annotation.csv
+exports/
+logs/
